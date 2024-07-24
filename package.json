@@ -1,0 +1,17 @@
+{
+  "name": "frontend-framework_apple-rustria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Apple Rustria",
+  "license": "private",
+  "private": true,
+  "description": "bootsrap assignment",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "lite-server": "^2.6.1",
+    "sass": "^1.77.8"
+  }
+}
